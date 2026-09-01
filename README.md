@@ -18,10 +18,10 @@ Ce projet illustre une double compétence : **fiabiliser un pipeline de données
 
 ## 🛠️ Stack technique
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-!\[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-!\[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-!\[DAX](https://img.shields.io/badge/DAX-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 Pipeline : **Excel (source) → Python (ETL) → MySQL → Power BI (modèle + mesures DAX)**
 
