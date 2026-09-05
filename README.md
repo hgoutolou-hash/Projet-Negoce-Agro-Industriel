@@ -40,10 +40,10 @@ Pipeline : **Excel (source) → Python (ETL) → MySQL → Power BI (modèle + m
 
 ## 📸 Aperçu du dashboard
 
-![Page Performance Commerciale](./screenshots/performance-commerciale.png)
+![Performance Commerciale](./screenshots/performance-commerciale.png)
 *Vue d'ensemble commerciale : CA, COGS, marge, segmentation clients, top produits et top pays*
 
-![Page Rentabilité & Agences](./screenshots/rentabilite-agences.png)
+![Rentabilité & Agences](./screenshots/rentabilite-agences.png)
 *Cascade CA → Résultat Opérationnel, rentabilité par agence, segments Pays/Région et Période*
 
 ---
